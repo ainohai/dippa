@@ -8,6 +8,8 @@ layout: page
 permalink: >
   http://ainon.goforecrew.com/opinnaytetyo/
 published: true
+incom_status:
+  - default
 ---
 <h1 id="johdanto">Johdanto</h1>
 <h1 id="käyttäjän-huomioiminen-suunnittelussa">Käyttäjän huomioiminen suunnittelussa</h1>
