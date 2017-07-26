@@ -1,16 +1,3 @@
----
-ID: 5
-post_title: Opinnäytetyö
-author: Aino
-post_date: 2017-01-22 07:39:05
-post_excerpt: ""
-layout: page
-permalink: >
-  http://ainon.goforecrew.com/opinnaytetyo/
-published: true
-incom_status:
-  - default
----
 Johdanto
 ========
 
