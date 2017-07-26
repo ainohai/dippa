@@ -8,10 +8,12 @@ layout: page
 permalink: >
   http://ainon.goforecrew.com/opinnaytetyo/
 published: true
+incom_status:
+  - default
 ---
 Termit ja niiden määritelmä
 
-Johdanto
+Johdanto TESTING EXPOST
 ========
 
 Käyttäjän huomioiminen suunnittelussa
