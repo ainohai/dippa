@@ -1,23 +1,13 @@
 ---
-
 ID: 5
-
-post\_title: Opinnäytetyö
-
+post_title: Opinnäytetyö
 author: Aino
-
-post\_date: 2017-01-22 07:39:05
-
-post\_excerpt: ""
-
+post_date: 2017-01-22 07:39:05
+post_excerpt: ""
 layout: page
-
-permalink: &gt;
-
- http://ainon.goforecrew.com/opinnaytetyo/
-
+permalink: >
+  http://ainon.goforecrew.com/opinnaytetyo/
 published: true
-
 ---
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -29,6 +19,11 @@ published: true
   <style type="text/css">code{white-space: pre;}</style>
 </head>
 <body>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Termit ja niiden määritelmä</p>
 <h1 id="johdanto">Johdanto</h1>
 <h1 id="käyttäjän-huomioiminen-suunnittelussa">Käyttäjän huomioiminen suunnittelussa</h1>
 <p>Ohjelmistot tarjoavat käyttäjälleen tietyn rajapinnan, jota käyttää. Käyttäjän suorittaessa tehtäviä sovelluksen avulla, käyttäjä ja systeemi ovat jatkuvassa vuorovaikutuksessa keskenään. Ohjelmistotuotannossa järjestelmä nähdään kuitenkin herkästi kokoelmana toiminnallisuuksia. Nämä toiminnallisuudet ja niihin liittyvät käsitteet pyritään mallintamaan loogisesti ja teknisesti järkevällä tavalla. Sovellusarkkitehti pyrkii abstraktoimaan käsitteet ja toiminnallisuudet koneen käsittelytapaan sopivaan malliin. Tämä saattaa luoda käyttäjälle vieraita rinnastuksia. Esimerkiksi yrityksellä ja henkilöllä voi molemmilla olla nimi ja osoite, mutta käyttäjän mielessä näillä ei ole mitään tekemistä toistensa kanssa, kun taas järjestelmässä ne voivat olla periytetty samasta kantaluokasta. Toisaalta käyttäjän mielikuvissa lähellä toisiaan olevilla käsitteillä ei järjestelmän kannalta ole välttämättä muuta yhteistä kuin sijainti. Jos järjestelmän ja käyttäjien vuorovaikutukseen ei kiinnitetä huomiota, järjestelmät suunnitellaan tyypillisesti toteuttamaan kasa toimintoja ja vaikka tämä lähestymistapa voi olla insinöörityön näkökulmasta tehokas, tehokkuus saavutetaan usein järjestelmän käyttäjien kustannuksella [Interaction design -beoynd human-computer interaction]. </p>
