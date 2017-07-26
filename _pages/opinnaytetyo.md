@@ -9,7 +9,7 @@ permalink: >
   http://ainon.goforecrew.com/opinnaytetyo/
 published: true
 incom_status:
-  - default
+  - 'on'
 ---
 <p></p>
 <p></p>
