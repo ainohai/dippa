@@ -1,6 +1,11 @@
 ---
+ID: 161
 post_title: scrum-
+author: Aino
+post_date: 2017-07-28 10:00:13
+post_excerpt: ""
 layout: page
+permalink: http://ainon.goforecrew.com/scrum/
 published: true
 ---
 <h2 id="scrum">Scrum </h2>

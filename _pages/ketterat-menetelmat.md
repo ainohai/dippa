@@ -1,6 +1,12 @@
 ---
+ID: 157
 post_title: ketterat-menetelmat
+author: Aino
+post_date: 2017-07-28 10:00:13
+post_excerpt: ""
 layout: page
+permalink: >
+  http://ainon.goforecrew.com/ketterat-menetelmat/
 published: true
 ---
 <h2 id="ketterät-menetelmät">Ketterät menetelmät</h2>
