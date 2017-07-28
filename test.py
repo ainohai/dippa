@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import re
 import os
     
@@ -9,6 +10,7 @@ layout: page
 published: true
 ---
 '''
+outfile = open('textBeforeHeader.txt', 'w')
 
 with open('testi.html') as infile:
     for line in infile:
@@ -17,6 +19,10 @@ with open('testi.html') as infile:
         else:
             text = re.search(r'>(.+?)<', line, re.DOTALL).group()
             text= text[1:-1]
+            text = text.lower()
+            text = text.replace(" ", "-")
+            text = text.replace("ä", "a")
+            text = text.replace("ö", "o")
             my_file = '_pages/%s.md' % text
             print line
 
